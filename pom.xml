@@ -14,7 +14,7 @@
         <kotlin.version>2.3.0</kotlin.version>
         <kotlin.code.style>official</kotlin.code.style>
         <ktor.version>3.4.0</ktor.version>
-        <kotlinx-io.version>0.8.2</kotlinx-io.version>
+        <kotlinx-io.version>0.9.0</kotlinx-io.version>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.source>${java.version}</maven.compiler.source>
     </properties>
